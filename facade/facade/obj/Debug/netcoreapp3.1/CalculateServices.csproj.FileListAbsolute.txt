@@ -1,0 +1,13 @@
+/Users/fgaviriaocam/Documents/Universidad/Semestre 2/patrones/facade/facade/obj/Debug/netcoreapp3.1/CalculateServices.csproj.AssemblyReference.cache
+/Users/fgaviriaocam/Documents/Universidad/Semestre 2/patrones/facade/facade/obj/Debug/netcoreapp3.1/CalculateServices.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fgaviriaocam/Documents/Universidad/Semestre 2/patrones/facade/facade/obj/Debug/netcoreapp3.1/CalculateServices.AssemblyInfoInputs.cache
+/Users/fgaviriaocam/Documents/Universidad/Semestre 2/patrones/facade/facade/obj/Debug/netcoreapp3.1/CalculateServices.AssemblyInfo.cs
+/Users/fgaviriaocam/Documents/Universidad/Semestre 2/patrones/facade/facade/obj/Debug/netcoreapp3.1/CalculateServices.csproj.CoreCompileInputs.cache
+/Users/fgaviriaocam/Documents/Universidad/Semestre 2/patrones/facade/facade/obj/Debug/netcoreapp3.1/facade.dll
+/Users/fgaviriaocam/Documents/Universidad/Semestre 2/patrones/facade/facade/obj/Debug/netcoreapp3.1/facade.pdb
+/Users/fgaviriaocam/Documents/Universidad/Semestre 2/patrones/facade/facade/bin/Debug/netcoreapp3.1/facade.deps.json
+/Users/fgaviriaocam/Documents/Universidad/Semestre 2/patrones/facade/facade/bin/Debug/netcoreapp3.1/facade.runtimeconfig.json
+/Users/fgaviriaocam/Documents/Universidad/Semestre 2/patrones/facade/facade/bin/Debug/netcoreapp3.1/facade.runtimeconfig.dev.json
+/Users/fgaviriaocam/Documents/Universidad/Semestre 2/patrones/facade/facade/bin/Debug/netcoreapp3.1/facade.dll
+/Users/fgaviriaocam/Documents/Universidad/Semestre 2/patrones/facade/facade/bin/Debug/netcoreapp3.1/facade.pdb
+/Users/fgaviriaocam/Documents/Universidad/Semestre 2/patrones/facade/facade/obj/Debug/netcoreapp3.1/CalculateServices.genruntimeconfig.cache

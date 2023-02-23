@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>facade</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="CostService\" />
+    <None Remove="Trm\" />
+    <None Remove="CalculateFacade\" />
+    <None Remove="CostService\Entity\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="CostService\" />
+    <Folder Include="Trm\" />
+    <Folder Include="CalculateFacade\" />
+    <Folder Include="CostService\Entity\" />
+  </ItemGroup>
+</Project>
